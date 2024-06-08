@@ -1,5 +1,5 @@
 return {
-  -- test git
+  -- test git main branch
 
   {
     "ThePrimeagen/harpoon",
