@@ -1,6 +1,5 @@
 return {
-  -- test git
-
+  -- test git changes to testing-lazygit
   {
     "ThePrimeagen/harpoon",
     branch = "harpoon2",
