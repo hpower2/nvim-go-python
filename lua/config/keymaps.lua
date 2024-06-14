@@ -3,5 +3,5 @@
 -- Add any additional keymaps here
 --
 vim.keymap.set("n", "<CR>", "m`o<Esc>``")
-vim.opt.relativenumber = false
+vim.opt.relativenumber = true
 vim.keymap.set("n", "<S-CR>", "m`O<Esc>``")
